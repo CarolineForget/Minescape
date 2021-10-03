@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Objects
+  - Piege
+  - Menu
+  - PlateformeMouvement
+  - Ennemi
+  - Boite
+  - Musique
+  - MurDroit
+  - MurGauche
+  - Sol
+  - Time
+  - Patrouille
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sol
+  - Piege
+  - Echelle
+  - Hero
+  - Contour
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Arri\xE8rePlan"
+    uniqueID: 2224265685
+    locked: 0
+  - name: "Troisi\xE8mePlan"
+    uniqueID: 368355263
+    locked: 0
+  - name: "Deuxi\xE8mePlan"
+    uniqueID: 1824923553
+    locked: 0
+  - name: Sol
+    uniqueID: 2302264533
+    locked: 0
+  - name: AvantPlan
+    uniqueID: 4114666085
+    locked: 0
+  - name: UI
+    uniqueID: 3393474233
+    locked: 0
